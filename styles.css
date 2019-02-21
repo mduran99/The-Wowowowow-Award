@@ -1,0 +1,48 @@
+.heather {
+    color: #fc0000;
+    font-family: 'Monoton', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    Background-image: URL(https://ak0.picdn.net/shutterstock/videos/21002440/thumb/1.jpg);
+    text-align: center;
+}
+
+
+.Best-Movie {
+    color: #db089f; 
+    font-family: 'Ruge Boogie', cursive;
+}
+
+.Best-Movie img {
+    height: 400px;
+}
+
+.Best-Artist {
+    color: #1371f7;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.Best-Artist img {
+    height: 200px;
+}
+.Best-Game {
+    color: #12db08;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.Best-Game img {
+    height: 300px;
+}
+.Best-Class {
+    color: #f2f221;
+    font-family: 'Bad Script', cursive;
+}
+
+.Best-Class img {
+    height: 300px;
+}
